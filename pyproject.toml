@@ -1,0 +1,8 @@
+
+[project]
+name = "plot-pyre"
+version = "0.0.0"
+description = "Smart plotting for Pyre"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
