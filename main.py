@@ -14,9 +14,9 @@ from src.db_utils import (
 
 # Page configuration
 PAGE_CONFIG = {
-    "page_title": "AI-Powered Data Visualization",
-    "page_icon": "chart_with_upwards_trend:",
-    "layout": "centered",
+    "page_title": "Plot Pyre - AI-Powered Data Visualization",
+    "page_icon": "🐍",
+    "layout": "wide",
 }
 st.set_page_config(**PAGE_CONFIG)
 
