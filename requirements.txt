@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+numpy
+pandas
+matplotlib
+google-genai # For Gemini API access
+pymongo # For MongoDB integration
